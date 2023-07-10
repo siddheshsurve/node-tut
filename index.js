@@ -1,3 +1,3 @@
-const siddhesh = require("./second");
+// const siddhesh = require("./second");
 
-console.log("Hello World", siddhesh)
+console.log("Hello World")
